@@ -19,9 +19,9 @@ This respiratory contains my C language practice programs that i created while l
 ## RESPIRATORY STRUCTURE
 C-Programming
 
-├── 01 Variables
-├── 02 If Else
-├── 03 Switch
+├── 01 Basics
+├── 02 Operators
+├── 03 If-Else and Switch Case
 ├── 04 Loops
 ├── 05 Functions
 ├── 06 Arrays
