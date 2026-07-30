@@ -17,16 +17,18 @@ This respiratory contains my C language practice programs that i created while l
 • MINI PROJECTS AND PROGRAMS.
 
 ## RESPIRATORY STRUCTURE
-01--BASIC.
-02--OPERATORS.
-03--IF-ELSE.
-04--LOOPS.
-05--FUNCTIONS.
-06--RECURSIONS.
-07--POINTERS.
-08--ARRAYS.
-09--STRINGS.
-10--PROJECTS.
+C-Programming
+
+├── 01 Variables
+├── 02 If Else
+├── 03 Switch
+├── 04 Loops
+├── 05 Functions
+├── 06 Arrays
+├── 07 Strings
+├── 08 Pointers
+├── 09 Structures
+├── 10 File Handling
 
 ## Purpose
 -LEARN C PROGRAMMING.
