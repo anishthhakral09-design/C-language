@@ -4,16 +4,13 @@ int main()  {
     printf("ENTER THE NUMBER\n");
     scanf("%d" , &a);
 
-    if (a>=5)
-        {printf("A IS equal to or greater than 5");
-
-       
+    if (a>5)
+        {printf("Entered Number is greater than 5");
             }
-
-    
+        
      else 
      { 
-        printf("b is less than 5 ");
+        printf("ENTERED NUMBER IS LESSER THAN 5");
      }
 
 
